@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>JSP Application</title>
+		<title>Our JSP Application</title>
 	</head>
 	<body>
 		<h1>Hello world!! Oren & Yonatan were here</h1>
