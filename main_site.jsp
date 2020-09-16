@@ -6,7 +6,7 @@
 		<title>Our JSP Application</title>
 	</head>
 	<body>
-		<h1>Hello world!! Oren & Yonatan were here</h1>
+		<h1>Hello Ziv!! Oren & Yonatan were here</h1>
 		<h2>Current time is <%= LocalDateTime.now() %></h2>
 	</body>
 </html>
